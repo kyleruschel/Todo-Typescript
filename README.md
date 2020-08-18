@@ -1,4 +1,4 @@
-#React + Typescript
+# React + Typescript
 
 Very simple FE only Todo application
 
