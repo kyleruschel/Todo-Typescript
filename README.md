@@ -1,1 +1,10 @@
-# Todo-React + Typescript
+#React + Typescript
+
+Very simple FE only Todo application
+
+This project contains:
+
+* React
+* React Hooks
+* Typescript
+* CSS
