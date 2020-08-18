@@ -6,5 +6,5 @@ This project contains:
 
 * React
 * React Hooks
-* Typescript
+* TypeScript
 * CSS
